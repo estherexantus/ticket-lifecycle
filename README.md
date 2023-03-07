@@ -49,9 +49,25 @@ Since Business Critical are configured as an emergency, this was assigned to the
 <br />
 
 <p>
-<img src="https://i.imgur.com/uZN8wPD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Q8ZnYYl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is confirmation page to inform the customer that the ticket has been sent. 
+Jane, who is part of the Level II Support team, is able to give updates to the customer by replying to the customer's message.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/g3KdlyO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once the issue is resolved, the team or individual is able to change the ticket status to resolved. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/UnJMBtR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This ticket is listed as closed in Jane Doe's account. 
 </p>
 <br />
