@@ -68,6 +68,6 @@ Once the issue is resolved, the team or individual is able to change the ticket 
 <img src="https://i.imgur.com/UnJMBtR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This ticket is listed as closed in Jane Doe's account. 
+This ticket is now listed as closed. 
 </p>
 <br />
